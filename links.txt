@@ -1,0 +1,4 @@
+Slide Aula: https://docs.google.com/presentation/d/1tQBoaa_Nn8Fl0--EyJGmSteUnkr79ur9vQZV7Tzktns/edit?usp=sharing
+Documentação Flask: https://flask.palletsprojects.com/en/1.1.x/
+Postman Chrome: https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop/related?hl=pt_BR
+sqlite3: https://www.sqlite.org/index.html
